@@ -1,0 +1,15 @@
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\HotelAPI.Data.deps.json
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\HotelAPI.Data.dll
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\ref\HotelAPI.Data.dll
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\HotelAPI.Data.pdb
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.csproj.AssemblyReference.cache
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.AssemblyInfoInputs.cache
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.AssemblyInfo.cs
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.csproj.CoreCompileInputs.cache
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.dll
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\ref\HotelAPI.Data.dll
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.pdb
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\HotelAPI.Data.runtimeconfig.json
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\bin\Debug\net5.0\HotelAPI.Data.runtimeconfig.dev.json
+D:\Workarea\Pawan\RnD\Core5\HotelAPI\HotelAPI.Data\obj\Debug\net5.0\HotelAPI.Data.genruntimeconfig.cache
